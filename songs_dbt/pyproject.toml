@@ -10,6 +10,10 @@ packages = [{include = "songs_dbt"}]
 python = "^3.9"
 dbt-duckdb = "^1.4.0"
 duckdb = "^0.7.1"
+boto3 = "^1.26.89"
+dagit = "^1.2.1"
+dagster = "^1.2.1"
+pandas = "^1.5.3"
 
 
 [build-system]

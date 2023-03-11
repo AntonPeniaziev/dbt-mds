@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: company_db
+    database: company_db
+    schema: company_db
+    tables:
+      - name: movies
