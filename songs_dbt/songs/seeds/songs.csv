@@ -1,0 +1,24 @@
+day,station,artist,song_name,plays
+1989-01-01,rockFM,metallica,blackened,1
+1993-01-01,BLA_FM,metallica,blackened,20
+2020-01-02,rockFM,metallica,blackened,16
+2020-01-03,rockFM,metallica,blackened,17
+2020-01-04,rockFM,metallica,blackened,18
+2020-01-05,rockFM,metallica,blackened,15
+2020-01-05,rockFM,metallica,blackened,NULL
+2020-01-05,Radio Rocks,Metallica,Blackened,1
+2000-01-05,rockFM,Foo Fighters,hero,8
+2000-01-05,eco99,foo fighters,hero,8
+2000-01-05,eco99,foo fighters,everlong,8
+2000-01-05,rockFM,foo fighters,everlong,NULL
+2020-12-12,hitFM,omer adam,wai li,40
+2020-12-13,hitFM,omer adam,wai li,40
+2020-12-20,hitFM,omer adam,wai li,14
+2020-12-20,hitFM,omer adam,wai li,40
+2020-12-19,hitFM,omer adam,wai li,40
+2020-12-18,hitFM,omer adam,wai li,40
+2020-12-31,hitFM,omer adam,wai li,40
+2020-12-31,hitFM,Whitesnake,Here I Go Again,40
+2020-12-30,hitFM,Whitesnake,Is this love,40
+2020-12-30,hitFM,Whitesnake,song,8
+2020-12-30,hitFM,Whitesnake,song,8
