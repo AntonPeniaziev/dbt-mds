@@ -6,3 +6,8 @@ sources:
     schema: company_db
     tables:
       - name: movies
+        identifier: movies
+      - name: actors
+        identifier: actors
+      - name: writers
+        identifier: writers
